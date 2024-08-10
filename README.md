@@ -1,1 +1,5 @@
-# Chat-GPT-Python
+## **📘 Chat GPT+Python**
+
+➰ 여기저기 데이터 분석 강의나 영상, 블로그 보면서
+챗GPT와 함께 슥슥슥 해본 것들 <br>
+
